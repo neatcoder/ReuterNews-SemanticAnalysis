@@ -1,0 +1,6 @@
+Total Documents,1560
+Keyword, Number of Documents containing term (df),Total Documents(N)/(df),Log10 (N/df)
+canada,36,43.3,1.64
+rain,2,780.0,2.89
+cold,6,260.0,2.41
+hot,3,520.0,2.72
